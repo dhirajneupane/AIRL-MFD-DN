@@ -14,11 +14,7 @@ pip install -r requirements.txt
 ```
 ## Installation
 
-1. Clone this repository:
-   ```bash
-   cd AIRL-MFDD-DN-May2025
-   ```
-
+1. Clone this repository
 **The dataset is provided in the "data" folder. The ./data/AIRL folder contains data for the AIRL framwork which can be run in the file 'AIRL_sensorRF2.ipynb'. Data for the contextual bandits (contextualBandit_RF2.ipynb) can be found in ./data/Contextual_bandit.**
 The dataset provided in this repo is already preprocessed. _Only the HUMS2023 processed dataset is provided here because of the space issue. _
 
