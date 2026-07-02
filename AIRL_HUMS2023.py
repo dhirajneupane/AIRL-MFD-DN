@@ -3,7 +3,7 @@ AIRL for Early Fault Detection on HUMS2023 (RF2 senosr)
 
 This script implements an Adversarial Inverse Reinforcement Learning (AIRL) workflow
 for early fault detection on the HUMS2023 dataset on sensor RF2 (timeseries vibration data).
-It uses already-preprocessed 1D sequences saved as MATLAB `.mat` files (matfiles variable is 'xr')
+It uses already-preprocessed 1D sequences saved as MATLAB `.mat` files (matfiles variable is 'xr' (for HUMS))
 split into expert (healthy up to Day 20) and test (from Day 21 onward) folders.
 
 The pipeline:
