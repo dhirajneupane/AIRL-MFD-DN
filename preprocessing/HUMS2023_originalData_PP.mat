@@ -1,5 +1,5 @@
 %{
-This file is for preprocessing the original dataset provided by HUMS2023. The link to download the original dataset is provided in the readme file.
+This file is for preprocessing the original dataset provided by HUMS2023. The link to download the original dataset is provided in the read.me file.
 If you are using the already preprocessed data, which is provided in this repo, this file is not helpufl.
 %}
 inputDirectory = ''; % the HUMS2023 downlaoded directory
